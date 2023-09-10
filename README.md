@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvratsinghpanwar&show_icons=true&theme=radical)
+<img align="centre" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
+https://github-readme-stats.vercel.app/api?username=devvratsinghpanwar&show_icons=true&theme=radical
 
 <!--
 **devvratsinghpanwar/devvratsinghpanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
