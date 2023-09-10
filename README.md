@@ -1,7 +1,8 @@
-### Hi there 👋
+
 <img align="centre" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
-
-
+                 <h1 align="centre">
+                   Hi! there, myself Devvrat Singh Panwar :stuck_out_tongue_winking_eye:
+                 </h1>
 
 - 🔭 I’m currently working on improving my devops skills
 - 🌱 I’m currently learning javascript
