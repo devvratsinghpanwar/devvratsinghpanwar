@@ -26,7 +26,7 @@
 [![Other](https://skillicons.dev/icons?i=vscode,git,github,bash,figma,blender,ps,webflow,docker,linux)](https://skillicons.dev)
 
 ## 📊 GitHub
-![](https://github-readme-streak-stats.herokuapp.com/?user=devvratsinghpanwarv&theme=vision-friendly-dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devvratsinghpanwar&theme=synthwave&hide_border=true)](https://git.io/streak-stats)<br/>
 
 <h3 align="left">🙌Connect with me:</h3>
 <p align="left">
