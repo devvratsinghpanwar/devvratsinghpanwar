@@ -4,9 +4,9 @@
                    Hi! there, myself Devvrat Singh Panwar :stuck_out_tongue_winking_eye:
                  </h1>
 
-- 🌱 I’m currently learning **Reinforcement Learning and Computer Vision**
+- 🌱 I’m currently learning **AWS and FastApi**
 
-- 💬 Ask me about **Backend development, NLP, Deep Learning, LSTM and u get the idea...**
+- 💬 Ask me about **Frontend in React Backend in Node and Express and u get the idea...**
 
 - 📫 How to reach me: **devvratsingh0121@gmail.com**
 
