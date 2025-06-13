@@ -4,13 +4,31 @@
                    Hi! there, myself Devvrat Singh Panwar :stuck_out_tongue_winking_eye:
                  </h1>
 
-- 🔭 I’m currently working on improving my devops skills
-- 🌱 I’m currently learning javascript
-  <img align="right" width="100" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
-  <img align="right" width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
-  <img align="right" width="100" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif">
-- 📫 How to reach me: devvratsingh0121@gmail.com
-  
-- ⚡ Fun fact: ...
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devvratsinghpanwar&show_icons=true&theme=radical)
+- 🌱 I’m currently learning **Reinforcement Learning and Computer Vision**
+
+- 💬 Ask me about **Backend development, NLP, Deep Learning, LSTM and u get the idea...**
+
+- 📫 How to reach me: **devvratsingh0121@gmail.com**
+
+## Technical Tools
+
+### Programing Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,ts)](https://skillicons.dev) <br/>
+### Machine Learning
+[![Languages](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev) <br/>
+### Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs,)](https://skillicons.dev)
+### Backend Development
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)
+### Databases
+[![Backend](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+### Other
+[![Other](https://skillicons.dev/icons?i=vscode,git,github,bash,figma,blender,ps,webflow,docker,linux)](https://skillicons.dev)
+
+## 📊 GitHub
+![](https://github-readme-streak-stats.herokuapp.com/?user=devvratsinghpanwarv&theme=vision-friendly-dark&hide_border=false)<br/>
+
+<h3 align="left">🙌Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/devvrat-singh-panwar-9b1397257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yogit's LinkedIn" height="30" width="40" /></a>
+</p>
