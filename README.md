@@ -15,7 +15,7 @@
 ### Programing Languages
 [![Languages](https://skillicons.dev/icons?i=c,cpp,js,python,ts)](https://skillicons.dev) <br/>
 ### Machine Learning
-[![Languages](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev) <br/>
+[![Languages](https://skillicons.dev/icons?i=tensorflow,sklearn)](https://skillicons.dev) <br/>
 ### Frontend Development
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,nextjs,)](https://skillicons.dev)
 ### Backend Development
@@ -23,7 +23,7 @@
 ### Databases
 [![Backend](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 ### Other
-[![Other](https://skillicons.dev/icons?i=vscode,git,github,bash,figma,blender,ps,webflow,docker,linux)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=vscode,git,github,bash,figma,blender,docker,linux)](https://skillicons.dev)
 
 ## 📊 GitHub
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devvratsinghpanwar&theme=synthwave&hide_border=true)](https://git.io/streak-stats)<br/>
